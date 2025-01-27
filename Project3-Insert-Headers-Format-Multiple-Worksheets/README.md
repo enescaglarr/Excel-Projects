@@ -16,7 +16,7 @@ This project showcases the use of **VBA Macros** to automate the insertion of he
 - Multi-Sheet Data Management
 
 ## How to Use
-1. **Open the File**: Download and open the `Project3.xltm` file in Microsoft Excel.
+1. **Open the File**: Download and open the `project3.xltm` file in Microsoft Excel.
 2. **Enable Macros**: Ensure macros are enabled to allow the VBA scripts to execute.
 3. **Run the Macro**:
    - Navigate to the `Developer` tab.
